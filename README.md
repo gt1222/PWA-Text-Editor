@@ -1,7 +1,7 @@
 # PWA-Text-Editor
 
 ## Description
-I thought it was a simple assignment but the only part I was able to do was the manijest file. The service worker and idb took a long time for me to figure out. Wait, it turns out, I missed a whole folder to work on.
+I thought it was a simple assignment but the only part I was able to do was the manijest file. The service worker and idb took a long time for me to figure out. Wait, it turns out, I missed a whole folder to work on. Even when I updated the files, I still haven't been able to get the service worker or the idb to work.
 
 
 ## Installation
