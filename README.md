@@ -1,6 +1,7 @@
 # PWA-Text-Editor
 
 ## Description
+I thought it was a simple assignment but the only part I was able to do was the manijest file. The service worker and idb took a long time for me to figure out.
 
 
 ## Installation
@@ -12,6 +13,6 @@
 
 
 ## Links
-[Deployed Link]()
+[Deployed Link](https://evening-woodland-39418.herokuapp.com/)
 
-[Github]()
+[Github](https://github.com/gt1222/PWA-Text-Editor)
